@@ -1,0 +1,86 @@
+verb,semantic_class,factivity,comp_that,comp_inf,comp_interrog,comp_gerund,comp_small_clause,veridicality,npi_licenser,notes
+know,cognitive,factive,1,0,1,0,0,veridical,1,
+realize,cognitive,semi-factive,1,0,0,0,0,veridical,0,
+discover,cognitive,semi-factive,1,0,0,0,0,veridical,0,
+find_out,cognitive,semi-factive,1,0,1,0,0,veridical,0,
+understand,cognitive,factive,1,0,1,0,0,veridical,0,
+recognize,cognitive,semi-factive,1,0,0,0,0,veridical,0,
+conclude,cognitive,semi-factive,1,0,0,0,0,veridical,0,
+deduce,cognitive,semi-factive,1,0,0,0,0,veridical,0,
+infer,cognitive,semi-factive,1,0,0,0,0,veridical,0,
+learn,cognitive,semi-factive,1,0,0,0,0,veridical,0,
+believe,cognitive,non-factive,1,0,0,0,0,non-veridical,0,
+think,cognitive,non-factive,1,0,0,0,0,non-veridical,0,
+suppose,cognitive,non-factive,1,0,0,0,0,non-veridical,0,
+assume,cognitive,non-factive,1,0,0,0,0,non-veridical,0,
+suspect,cognitive,non-factive,1,0,1,0,0,non-veridical,0,
+expect,cognitive,non-factive,1,1,0,0,0,non-veridical,0,
+doubt,cognitive,non-factive,1,0,1,0,0,anti-veridical,1,
+forget,cognitive,factive,1,1,1,0,0,veridical,0,factive with that-clause; negative implicative with infinitive
+remember,cognitive,factive,1,1,1,0,0,veridical,0,factive with that-clause; positive implicative with infinitive
+say,communicative,non-factive,1,0,1,0,0,non-veridical,0,
+claim,communicative,non-factive,1,0,0,0,0,non-veridical,0,
+assert,communicative,non-factive,1,0,0,0,0,non-veridical,0,
+report,communicative,non-factive,1,0,0,0,0,non-veridical,0,
+announce,communicative,non-factive,1,0,0,0,0,non-veridical,0,
+admit,communicative,factive,1,1,0,1,0,veridical,0,
+deny,communicative,non-factive,1,0,0,1,0,anti-veridical,1,
+acknowledge,communicative,factive,1,0,0,1,0,veridical,0,
+tell,communicative,non-factive,1,1,1,0,0,non-veridical,0,
+mention,communicative,semi-factive,1,0,0,0,0,veridical,0,
+insist,communicative,non-factive,1,0,0,0,0,non-veridical,0,
+argue,communicative,non-factive,1,0,0,0,0,non-veridical,0,
+suggest,communicative,non-factive,1,0,0,1,0,non-veridical,0,
+warn,communicative,non-factive,1,1,0,0,0,non-veridical,0,
+predict,communicative,non-factive,1,0,0,0,0,non-veridical,0,
+confirm,communicative,factive,1,0,0,0,0,veridical,0,
+reveal,communicative,factive,1,0,0,0,0,veridical,0,
+prove,communicative,factive,1,0,0,0,0,veridical,0,
+show,communicative,factive,1,0,0,0,0,veridical,0,
+explain,communicative,non-factive,0,0,1,0,0,non-veridical,0,
+regret,emotive,factive,1,1,0,1,0,veridical,0,
+resent,emotive,factive,0,0,0,1,0,veridical,0,
+be_glad,emotive,factive,1,0,0,0,0,veridical,0,copular predicate
+be_sorry,emotive,factive,1,0,0,0,0,veridical,0,copular predicate
+be_surprised,emotive,factive,1,0,1,0,0,veridical,0,copular predicate
+be_proud,emotive,factive,1,0,0,0,0,veridical,0,copular predicate
+be_ashamed,emotive,factive,1,0,0,0,0,veridical,0,copular predicate
+be_annoyed,emotive,factive,1,0,0,0,0,veridical,0,copular predicate
+lament,emotive,factive,1,0,0,1,0,veridical,0,
+deplore,emotive,factive,1,0,0,1,0,veridical,0,
+mind,emotive,factive,0,0,0,1,0,veridical,1,NPI licenser in some analyses
+fear,emotive,non-factive,1,1,0,0,0,non-veridical,0,
+hope,desiderative,non-factive,1,1,0,0,0,non-veridical,0,
+want,desiderative,non-factive,0,1,0,0,0,non-veridical,0,
+wish,desiderative,counter-factive,1,1,0,0,0,non-veridical,0,counter-factive with finite complement; non-factive with infinitive
+desire,desiderative,non-factive,1,1,0,0,0,non-veridical,0,
+intend,desiderative,non-factive,0,1,0,0,0,non-veridical,0,
+plan,desiderative,non-factive,0,1,0,0,0,non-veridical,0,
+decide,desiderative,non-factive,0,1,1,0,0,non-veridical,0,
+prefer,desiderative,non-factive,1,1,0,1,0,non-veridical,0,
+see,perception,semi-factive,1,0,0,0,1,veridical,0,factive with that-clause; non-factive with small clause / bare inf
+hear,perception,semi-factive,1,0,0,0,1,veridical,0,
+notice,perception,semi-factive,1,0,0,0,0,veridical,0,
+observe,perception,semi-factive,1,0,0,0,1,veridical,0,
+watch,perception,semi-factive,0,0,0,0,1,veridical,0,takes small clause / bare inf only
+feel,perception,non-factive,1,0,0,0,1,non-veridical,0,
+sense,perception,non-factive,1,0,0,0,0,non-veridical,0,
+manage,implicative,implicative,0,1,0,0,0,veridical,0,positive implicative
+fail,implicative,implicative,0,1,0,0,0,anti-veridical,1,negative implicative
+happen,implicative,implicative,0,1,0,0,0,veridical,0,positive implicative (happen to V)
+try,implicative,non-factive,0,1,0,0,0,non-veridical,0,
+pretend,imaginative,counter-factive,1,1,0,0,0,anti-veridical,0,
+imagine,imaginative,counter-factive,1,1,0,0,0,non-veridical,0,non-factive in some uses (imagine what it would be like)
+dream,imaginative,counter-factive,1,0,0,0,0,non-veridical,0,
+fantasize,imaginative,counter-factive,0,0,0,0,0,non-veridical,0,takes about+gerund; no finite/inf complement
+order,directive,non-factive,0,1,0,0,0,non-veridical,0,
+ask,directive,non-factive,0,1,1,0,0,non-veridical,0,
+request,directive,non-factive,1,1,0,0,0,non-veridical,0,
+command,directive,non-factive,0,1,0,0,0,non-veridical,0,
+beg,directive,non-factive,0,1,0,0,0,non-veridical,0,
+urge,directive,non-factive,0,1,0,0,0,non-veridical,0,
+require,directive,non-factive,1,1,0,0,0,non-veridical,0,
+demand,directive,non-factive,1,1,0,0,0,non-veridical,0,
+permit,directive,non-factive,0,1,0,0,0,non-veridical,0,
+allow,directive,non-factive,0,1,0,0,0,non-veridical,0,
+force,directive,non-factive,0,1,0,0,0,non-veridical,0,causative-directive
