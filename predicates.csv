@@ -65,10 +65,7 @@ observe,perception,semi-factive,veridical,0,0,1,0,1,0,1,1,0,0,0,1,0,0,1,1,0,0,1,
 watch,perception,semi-factive,veridical,0,0,0,0,1,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,takes small clause / bare inf only
 feel,perception,non-factive,non-veridical,0,0,1,0,1,0,1,1,0,0,0,1,0,0,1,1,0,0,0,0,0,1,
 sense,perception,non-factive,non-veridical,0,0,1,0,1,0,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,1,
-manage,implicative,implicative,veridical,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,positive implicative
-fail,implicative,implicative,anti-veridical,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,negative implicative
 happen,implicative,implicative,veridical,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,positive implicative (happen to V)
-try,implicative,non-factive,non-veridical,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 pretend,imaginative,counter-factive,anti-veridical,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,
 imagine,imaginative,counter-factive,non-veridical,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,non-factive in some uses (imagine what it would be like)
 dream,imaginative,counter-factive,non-veridical,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,
