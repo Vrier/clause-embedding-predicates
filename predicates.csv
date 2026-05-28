@@ -647,3 +647,71 @@ get_around,communicative,non-factive,1,0,0,0,0,non-veridical,0,spread (of news/r
 go_around,communicative,non-factive,1,0,0,0,0,non-veridical,0,circulate (of rumour); impersonal,1,0,,0,0,0,0,0,0,assertive_report
 put_about,communicative,non-factive,1,0,0,0,0,non-veridical,0,spread (rumour); BrE; often passive,1,0,,0,0,0,0,0,0,assertive_report
 get_through,communicative,non-factive,1,0,0,0,0,non-veridical,0,succeed in communicating; always ditransitive,1,0,,0,0,1,0,0,0,report_to
+abash,psych,factive,1,0,0,0,0,veridical,0,,0,0,,0,1,0,0,0,0,psych_causative
+affront,psych,factive,1,0,0,0,0,veridical,0,,0,0,,0,1,0,0,0,0,psych_causative
+alienate,psych,factive,1,0,0,0,0,veridical,0,,0,0,,0,1,0,0,0,0,psych_causative
+antagonize,psych,factive,1,0,0,0,0,veridical,0,,0,0,,0,1,0,0,0,0,psych_causative
+appease,psych,factive,1,0,0,0,0,veridical,0,,0,0,,0,1,0,0,0,0,psych_causative
+awe,psych,factive,1,0,0,0,0,veridical,0,,0,0,,0,1,0,0,0,0,psych_causative
+bewilder,psych,factive,1,0,0,0,0,veridical,0,,0,0,,0,1,0,0,0,0,psych_causative
+bore,psych,factive,1,0,0,0,0,veridical,0,,0,0,,0,1,0,0,0,0,psych_causative
+calm,psych,factive,1,0,0,0,0,veridical,0,,0,0,,0,1,0,0,0,0,psych_causative
+captivate,psych,factive,1,0,0,0,0,veridical,0,,0,0,,0,1,0,0,0,0,psych_causative
+chagrin,psych,factive,1,0,0,0,0,veridical,0,,0,0,,0,1,0,0,0,0,psych_causative
+chill,psych,factive,1,0,0,0,0,veridical,0,hints of fear/dread,0,0,,0,1,0,0,0,0,psych_causative
+confound,psych,factive,1,0,0,0,0,veridical,0,,0,0,,0,1,0,0,0,0,psych_causative
+confuse,psych,factive,1,0,0,0,0,veridical,0,,0,0,,0,1,0,0,0,0,psych_causative
+daunt,psych,factive,1,0,0,0,0,veridical,0,,0,0,,0,1,0,0,0,0,psych_causative
+dazzle,psych,factive,1,0,0,0,0,veridical,0,,0,0,,0,1,0,0,0,0,psych_causative
+deject,psych,factive,1,0,0,0,0,veridical,0,,0,0,,0,1,0,0,0,0,psych_causative
+disarm,psych,factive,1,0,0,0,0,veridical,0,,0,0,,0,1,0,0,0,0,psych_causative
+disconcert,psych,factive,1,0,0,0,0,veridical,0,,0,0,,0,1,0,0,0,0,psych_causative
+discomfit,psych,factive,1,0,0,0,0,veridical,0,formal,0,0,,0,1,0,0,0,0,psych_causative
+discourage,psych,factive,1,0,0,0,0,veridical,0,,0,0,,0,1,0,0,0,0,psych_causative
+displease,psych,factive,1,0,0,0,0,veridical,0,,0,0,,0,1,0,0,0,0,psych_causative
+dispirit,psych,factive,1,0,0,0,0,veridical,0,,0,0,,0,1,0,0,0,0,psych_causative
+disquiet,psych,factive,1,0,0,0,0,veridical,0,formal,0,0,,0,1,0,0,0,0,psych_causative
+dumbfound,psych,factive,1,0,0,0,0,veridical,0,,0,0,,0,1,0,0,0,0,psych_causative
+electrify,psych,factive,1,0,0,0,0,veridical,0,,0,0,,0,1,0,0,0,0,psych_causative
+embolden,psych,factive,1,0,0,0,0,veridical,0,,0,0,,0,1,0,0,0,0,psych_causative
+enchant,psych,factive,1,0,0,0,0,veridical,0,,0,0,,0,1,0,0,0,0,psych_causative
+enrapture,psych,factive,1,0,0,0,0,veridical,0,,0,0,,0,1,0,0,0,0,psych_causative
+entertain,psych,factive,1,0,0,0,0,veridical,0,amuse sense only,0,0,,0,1,0,0,0,0,psych_causative
+entrance,psych,factive,1,0,0,0,0,veridical,0,,0,0,,0,1,0,0,0,0,psych_causative
+faze,psych,factive,1,0,0,0,0,veridical,0,informal,0,0,,0,1,0,0,0,0,psych_causative
+flabbergast,psych,factive,1,0,0,0,0,veridical,0,informal,0,0,,0,1,0,0,0,0,psych_causative
+galvanize,psych,factive,1,0,0,0,0,veridical,0,,0,0,,0,1,0,0,0,0,psych_causative
+haunt,psych,factive,1,0,0,0,0,veridical,0,,0,0,,0,1,0,0,0,0,psych_causative
+inspire,psych,factive,1,0,0,0,0,veridical,0,,0,0,,0,1,0,0,0,0,psych_causative
+mesmerize,psych,factive,1,0,0,0,0,veridical,0,,0,0,,0,1,0,0,0,0,psych_causative
+nauseate,psych,factive,1,0,0,0,0,veridical,0,,0,0,,0,1,0,0,0,0,psych_causative
+nettle,psych,factive,1,0,0,0,0,veridical,0,informal,0,0,,0,1,0,0,0,0,psych_causative
+rankle,psych,factive,1,0,0,0,0,veridical,0,often impersonal/intransitive,0,0,,0,1,0,0,0,0,psych_causative
+repel,psych,factive,1,0,0,0,0,veridical,0,,0,0,,0,1,0,0,0,0,psych_causative
+rile,psych,factive,1,0,0,0,0,veridical,0,informal,0,0,,0,1,0,0,0,0,psych_causative
+soothe,psych,factive,1,0,0,0,0,veridical,0,,0,0,,0,1,0,0,0,0,psych_causative
+tire,psych,factive,1,0,0,0,0,veridical,0,,0,0,,0,1,0,0,0,0,psych_causative
+torment,psych,factive,1,0,0,0,0,veridical,0,,0,0,,0,1,0,0,0,0,psych_causative
+snort,communicative,non-factive,1,0,0,0,0,non-veridical,0,manner: contemptuous,0,0,,0,0,0,1,0,0,assertive_report
+thunder,communicative,non-factive,1,0,0,0,0,non-veridical,0,manner: loud and angry,0,0,,0,0,0,1,0,0,assertive_report
+hiss,communicative,non-factive,1,0,0,0,0,non-veridical,0,manner: sibilant,0,0,,0,0,0,1,0,0,assertive_report
+splutter,communicative,non-factive,1,0,0,0,0,non-veridical,0,manner: surprised/indignant,0,0,,0,0,0,1,0,0,assertive_report
+interject,communicative,non-factive,1,0,0,0,0,non-veridical,0,interrupt to add remark,0,0,,0,0,0,1,0,0,assertive_report
+crow,communicative,non-factive,1,0,0,0,0,non-veridical,0,manner: triumphant/boastful,0,0,,0,0,0,1,0,0,assertive_report
+snarl,communicative,non-factive,1,0,0,0,0,non-veridical,0,manner: aggressive,0,0,,0,0,0,1,0,0,assertive_report
+drawl,communicative,non-factive,1,0,0,0,0,non-veridical,0,manner: slow/leisurely,0,0,,0,0,0,1,0,0,assertive_report
+moralize,communicative,non-factive,1,0,0,0,0,non-veridical,0,preach about morals,0,0,,0,0,0,0,0,0,assertive_report
+forewarn,communicative,non-factive,1,0,0,0,0,non-veridical,0,warn in advance; ditransitive,0,0,,0,0,1,0,0,0,report_to
+depose,communicative,factive,1,0,0,0,0,veridical,0,legal: give sworn testimony,0,0,,0,0,0,0,0,1,concessive
+asseverate,communicative,non-factive,1,0,0,0,0,non-veridical,0,formal/archaic: assert earnestly,0,0,,0,0,0,1,0,1,assertive_report
+tip_off,communicative,non-factive,1,0,0,0,0,non-veridical,0,warn/inform covertly; ditransitive,1,0,,0,0,1,0,0,0,report_to
+choke_out,communicative,non-factive,1,0,0,0,0,non-veridical,0,say with difficulty,1,0,,0,0,0,1,0,0,assertive_report
+seethe,emotive,factive,1,0,0,0,0,veridical,0,seething anger at the fact that S,0,0,,0,0,0,0,0,0,factive_emotive
+rue,emotive,factive,1,0,0,0,0,veridical,0,regret; literary/formal,0,0,,0,0,0,0,0,0,factive_emotive
+bristle,emotive,semi-factive,1,0,0,0,0,veridical,0,feel indignant,0,0,,0,0,0,0,0,0,factive_emotive
+fancy,cognitive,non-factive,1,0,0,0,0,non-veridical,0,BrE informal: believe/suppose,0,0,,0,0,0,0,0,0,doxastic
+direct,directive,non-factive,1,1,0,0,0,non-veridical,0,issue instructions; subjunctive comp,0,0,,0,0,1,0,1,0,directive
+enjoin,directive,non-factive,1,0,0,0,0,non-veridical,0,formal: order/instruct; subjunctive,0,0,,0,0,0,0,1,0,directive
+mandate,directive,non-factive,1,0,0,0,0,non-veridical,0,officially require; subjunctive comp,0,0,,0,0,0,0,1,0,directive
+prescribe,directive,non-factive,1,0,0,0,0,non-veridical,0,formally specify; subjunctive comp,0,0,,0,0,0,0,1,0,directive
+exhort,directive,non-factive,1,1,0,0,0,non-veridical,0,urge earnestly; also exhort to V,0,0,,0,0,1,0,0,0,directive
