@@ -622,3 +622,28 @@ mean,evidential,non-factive,1,0,0,0,0,veridical,0,"inferential; ""This means tha
 ween,cognitive,non-factive,1,0,0,0,0,non-veridical,0,archaic believe,0,0,,0,0,0,1,0,0,doxastic
 trow,cognitive,non-factive,1,0,0,0,0,non-veridical,0,archaic believe/trust,0,0,,0,0,0,1,0,0,doxastic
 wot,cognitive,factive,1,0,1,0,0,veridical,0,"archaic know (1sg of ""wit"")",0,0,,0,0,0,0,0,0,factive_awareness
+work_out,cognitive,semi-factive,1,0,1,0,0,veridical,0,discover by reasoning,1,0,,0,0,0,0,0,1,discovery
+suss_out,cognitive,semi-factive,1,0,1,0,0,veridical,0,BrE informal for figure out,1,0,,0,0,0,0,0,0,discovery
+catch_on,cognitive,semi-factive,1,0,0,0,0,veridical,0,informal: begin to understand,1,0,,0,0,0,0,0,0,discovery
+pick_up,cognitive,semi-factive,1,0,1,0,0,veridical,0,informal: notice/perceive,1,0,,0,0,0,0,0,0,discovery
+sink_in,cognitive,semi-factive,1,0,0,0,0,veridical,0,impersonal: become emotionally real,1,0,,0,0,0,0,0,0,discovery
+take_in,cognitive,semi-factive,1,0,0,0,0,veridical,0,emotionally process/accept a fact,1,0,,0,0,0,0,0,0,discovery
+let_on,communicative,semi-factive,1,0,0,0,0,veridical,0,reveal (implies truth of complement),1,0,,0,0,0,0,0,0,concessive
+let_slip,communicative,semi-factive,1,0,0,0,0,veridical,0,accidentally reveal,1,0,,0,0,0,0,0,0,concessive
+let_out,communicative,semi-factive,1,0,0,0,0,veridical,0,inadvertently disclose,1,0,,0,0,0,0,0,0,concessive
+give_away,communicative,semi-factive,1,0,0,0,0,veridical,0,inadvertently reveal,1,0,,0,0,0,0,0,0,concessive
+own_up,communicative,factive,1,0,0,1,0,veridical,0,confess; also gerund: own up to doing X,1,0,,0,0,0,0,0,0,concessive
+come_clean,communicative,factive,1,0,0,0,0,veridical,0,make full confession,1,0,,0,0,0,0,0,0,concessive
+bear_out,communicative,factive,1,0,0,0,0,veridical,0,confirm/corroborate (evidence as subject),1,0,,0,0,0,0,0,1,concessive
+bring_home,communicative,factive,1,0,0,0,0,veridical,0,make vividly real; usually ditransitive,1,0,,0,0,1,0,0,0,concessive
+blurt_out,communicative,non-factive,1,0,0,0,0,non-veridical,0,say suddenly and impulsively,1,0,,0,0,0,1,0,0,assertive_report
+spell_out,communicative,non-factive,1,0,0,0,0,non-veridical,0,state explicitly and clearly,1,0,,0,0,0,0,0,1,assertive_report
+get_across,communicative,non-factive,1,0,0,0,0,non-veridical,0,communicate successfully; also get across to NP,1,0,,0,0,1,0,0,1,report_to
+put_across,communicative,non-factive,1,0,0,0,0,non-veridical,0,communicate effectively,1,0,,0,0,0,0,0,0,assertive_report
+lay_out,communicative,non-factive,1,0,0,0,0,non-veridical,0,state formally and systematically,1,0,,0,0,0,0,0,1,assertive_report
+bring_up,communicative,non-factive,1,0,0,0,0,non-veridical,0,mention/introduce into discussion,1,0,,0,0,0,0,0,1,assertive_report
+get_out,communicative,non-factive,1,0,0,0,0,non-veridical,0,become known; impersonal/intransitive,1,0,,0,0,0,0,0,0,assertive_report
+get_around,communicative,non-factive,1,0,0,0,0,non-veridical,0,spread (of news/rumour); impersonal,1,0,,0,0,0,0,0,0,assertive_report
+go_around,communicative,non-factive,1,0,0,0,0,non-veridical,0,circulate (of rumour); impersonal,1,0,,0,0,0,0,0,0,assertive_report
+put_about,communicative,non-factive,1,0,0,0,0,non-veridical,0,spread (rumour); BrE; often passive,1,0,,0,0,0,0,0,0,assertive_report
+get_through,communicative,non-factive,1,0,0,0,0,non-veridical,0,succeed in communicating; always ditransitive,1,0,,0,0,1,0,0,0,report_to
