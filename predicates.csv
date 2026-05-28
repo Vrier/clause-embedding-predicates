@@ -141,7 +141,7 @@ certify,communicative,non-factive,non-veridical,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,
 challenge,communicative,non-factive,non-veridical,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,megav_ver=-1.09
 chant,communicative,non-factive,non-veridical,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,megav_ver=-0.07
 charge,communicative,non-factive,non-veridical,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,megav_ver=-0.94
-charm,psych,semi-factive,veridical,0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,megav_ver=0.89
+charm,psych,factive,veridical,0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,megav_ver=0.89
 chastise,communicative,factive,veridical,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,megav_ver=1.58
 chatter,communicative,non-factive,non-veridical,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,megav_ver=-0.18
 check,cognitive,non-factive,non-veridical,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,megav_ver=-1.30
@@ -156,9 +156,9 @@ complain,emotive,semi-factive,non-veridical,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,
 comprehend,cognitive,factive,veridical,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,megav_ver=1.31
 compute,communicative,semi-factive,non-veridical,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,megav_ver=0.54
 conceal,communicative,factive,veridical,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,megav_ver=1.77
-concede,communicative,non-factive,non-veridical,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,megav_ver=0.42
+concede,communicative,factive,veridical,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,megav_ver=0.42
 conceive,cognitive,non-factive,non-veridical,0,0,1,1,0,0,0,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,megav_ver=-1.72
-concern,psych,semi-factive,veridical,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,megav_ver=0.72
+concern,psych,factive,veridical,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,megav_ver=0.72
 confess,communicative,non-factive,non-veridical,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,megav_ver=0.26
 confide,communicative,non-factive,non-veridical,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,megav_ver=0.33
 congratulate,communicative,factive,veridical,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,megav_ver=1.52
@@ -175,7 +175,7 @@ convey,communicative,non-factive,non-veridical,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
 convince,communicative,non-factive,anti-veridical,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,megav_ver=-0.95
 corroborate,communicative,non-factive,non-veridical,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,megav_ver=0.10
 cringe,emotive,semi-factive,non-veridical,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,megav_ver=0.73
-crush,psych,semi-factive,veridical,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,megav_ver=0.59
+crush,psych,factive,veridical,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,megav_ver=0.59
 cry,communicative,semi-factive,non-veridical,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,megav_ver=1.00
 daydream,cognitive,counter-factive,anti-veridical,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,megav_ver=-2.98
 daze,psych,factive,veridical,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,megav_ver=1.72
@@ -275,7 +275,7 @@ forgive,communicative,factive,veridical,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,
 freak_out,emotive,factive,veridical,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,megav_ver=1.25
 fret,emotive,non-factive,non-veridical,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,megav_ver=0.33
 frighten,psych,non-factive,non-veridical,0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,megav=no_ver
-frustrate,psych,semi-factive,veridical,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,megav_ver=0.88
+frustrate,psych,factive,veridical,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,megav_ver=0.88
 fuss,emotive,factive,veridical,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,megav_ver=1.35
 gab,communicative,non-factive,non-veridical,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,megav_ver=0.11
 gall,psych,factive,veridical,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,megav_ver=1.04
@@ -289,7 +289,6 @@ gloat,emotive,factive,veridical,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,mega
 gossip,communicative,non-factive,non-veridical,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,megav_ver=-0.72
 gratify,psych,factive,veridical,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,megav_ver=1.66
 grieve,emotive,semi-factive,non-veridical,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,megav_ver=0.67
-grimace,communicative,factive,veridical,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,megav_ver=1.56
 groan,emotive,factive,veridical,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,megav_ver=1.15
 growl,communicative,non-factive,non-veridical,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,megav_ver=-0.08
 grumble,emotive,factive,veridical,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,megav_ver=1.21
@@ -299,21 +298,21 @@ guess,cognitive,non-factive,non-veridical,0,0,1,0,1,0,0,1,1,0,1,0,0,0,0,1,0,0,1,
 gush,communicative,semi-factive,non-veridical,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,megav_ver=0.70
 hallucinate,cognitive,non-factive,non-veridical,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,megav_ver=-1.08
 hate,emotive,factive,veridical,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,megav_ver=2.48
-hearten,psych,semi-factive,veridical,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,megav_ver=0.69
+hearten,psych,factive,veridical,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,megav_ver=0.69
 hint,communicative,non-factive,non-veridical,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,megav_ver=-1.22
 holler,communicative,non-factive,non-veridical,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,megav_ver=-0.81
 hoot,communicative,non-factive,non-veridical,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,megav_ver=-0.74
 horrify,psych,factive,veridical,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,megav_ver=2.42
 howl,communicative,semi-factive,non-veridical,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,megav_ver=0.68
 humble,psych,factive,veridical,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,megav_ver=1.73
-hurt,psych,semi-factive,veridical,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,megav_ver=0.99
+hurt,psych,factive,veridical,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,megav_ver=0.99
 hush_up,communicative,semi-factive,non-veridical,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,megav_ver=0.68
 identify,cognitive,non-factive,non-veridical,0,0,0,1,1,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,megav_ver=0.41
 ignore,cognitive,semi-factive,non-veridical,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,megav_ver=0.75
 implore,communicative,non-factive,non-veridical,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,0,megav_ver=-1.23
 imply,communicative,non-factive,non-veridical,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,megav_ver=-1.80
 impress,psych,factive,veridical,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,megav_ver=2.27
-incense,psych,semi-factive,veridical,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,megav_ver=0.95
+incense,psych,factive,veridical,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,megav_ver=0.95
 indicate,communicative,non-factive,non-veridical,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,megav_ver=-0.53
 indict,communicative,non-factive,non-veridical,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,megav_ver=-1.20
 inform,communicative,factive,veridical,0,0,0,1,1,0,1,1,0,0,0,1,0,0,0,1,1,1,0,0,0,1,megav_ver=1.41
@@ -390,7 +389,7 @@ praise,communicative,semi-factive,non-veridical,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,
 pray,emotive,non-factive,non-veridical,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,megav_ver=-1.69
 preach,communicative,non-factive,non-veridical,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,megav_ver=-0.74
 prejudge,communicative,non-factive,non-veridical,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,megav_ver=-1.81
-presume,communicative,non-factive,non-veridical,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,megav_ver=-1.30
+presume,cognitive,non-factive,non-veridical,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,megav_ver=-1.30
 presuppose,cognitive,non-factive,non-veridical,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,megav_ver=-1.72
 proclaim,communicative,non-factive,non-veridical,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,megav_ver=-0.86
 promise,communicative,non-factive,non-veridical,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0,1,1,0,0,megav_ver=-1.20
@@ -398,7 +397,7 @@ prophesy,communicative,non-factive,non-veridical,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1
 propose,communicative,non-factive,non-veridical,0,0,1,1,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,megav_ver=-1.33
 publicize,communicative,non-factive,non-veridical,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,megav_ver=0.47
 publish,communicative,non-factive,non-veridical,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,megav_ver=-0.75
-puzzle,psych,semi-factive,veridical,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,megav_ver=0.99
+puzzle,psych,factive,veridical,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,megav_ver=0.99
 quarrel,communicative,non-factive,non-veridical,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,megav_ver=-0.68
 question,communicative,non-factive,non-veridical,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,megav_ver=-0.49
 quip,communicative,non-factive,non-veridical,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,megav_ver=-1.00
@@ -436,7 +435,6 @@ restate,communicative,semi-factive,non-veridical,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
 retort,communicative,non-factive,non-veridical,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,megav_ver=-0.42
 retract,communicative,counter-factive,anti-veridical,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,megav_ver=-2.70
 revolt,psych,factive,veridical,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,megav_ver=2.49
-rouse,communicative,factive,veridical,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,megav_ver=1.95
 rule,communicative,non-factive,non-veridical,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,megav_ver=-0.23
 ruminate,cognitive,non-factive,non-veridical,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,megav_ver=-1.29
 sadden,psych,factive,veridical,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,megav_ver=2.36
@@ -473,14 +471,14 @@ stimulate,psych,factive,veridical,0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,me
 stipulate,communicative,non-factive,non-veridical,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,megav_ver=-0.99
 stress,communicative,factive,veridical,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,1,0,1,megav_ver=1.00
 stun,psych,factive,veridical,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,megav_ver=2.41
-stupefy,psych,semi-factive,veridical,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,megav_ver=0.80
+stupefy,psych,factive,veridical,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,megav_ver=0.80
 stutter,communicative,non-factive,non-veridical,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,megav_ver=-0.12
 submit,communicative,non-factive,non-veridical,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,megav_ver=-0.70
 summarize,communicative,non-factive,non-veridical,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,megav_ver=0.25
 surmise,cognitive,non-factive,non-veridical,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,megav_ver=-1.09
 surprise,psych,factive,veridical,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,megav_ver=2.56
 swear,communicative,non-factive,non-veridical,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,1,1,0,0,megav_ver=-0.90
-tantalize,psych,semi-factive,veridical,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,megav_ver=0.77
+tantalize,psych,factive,veridical,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,megav_ver=0.77
 tease,communicative,non-factive,non-veridical,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,megav_ver=-1.17
 terrify,psych,factive,veridical,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,megav_ver=1.39
 test,communicative,non-factive,non-veridical,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,megav_ver=-1.67
@@ -565,7 +563,7 @@ opine,communicative,non-factive,non-veridical,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,
 intimate,communicative,non-factive,non-veridical,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,hint formally
 venture,communicative,non-factive,non-veridical,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,"offer tentatively; ""I venture that X"""
 object,communicative,non-factive,non-veridical,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,"""She objected that this was unfair"""
-grant,communicative,non-factive,non-veridical,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,"concede; ""I grant that X is true"""
+grant,communicative,factive,veridical,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,"concede; ""I grant that X is true"""
 own,communicative,factive,veridical,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,0,1,1,0,1,admit (formal/archaic)
 plead,communicative,non-factive,non-veridical,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,legal context
 represent,communicative,non-factive,non-veridical,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,formally assert; legal/formal
@@ -584,8 +582,8 @@ deem,cognitive,non-factive,non-veridical,0,0,1,0,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,0
 discern,cognitive,semi-factive,veridical,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,"""She discerned that something was wrong"""
 divine,cognitive,semi-factive,veridical,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,"intuit; ""He divined that she was lying"""
 intuit,cognitive,semi-factive,veridical,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,"""She intuited that X was the case"""
-grasp,cognitive,semi-factive,veridical,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,understand
-fathom,cognitive,semi-factive,veridical,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,understand
+grasp,cognitive,factive,veridical,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,understand
+fathom,cognitive,factive,veridical,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,understand
 register,cognitive,semi-factive,veridical,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,notice/realize
 credit,cognitive,non-factive,non-veridical,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,"believe; ""She credited that X was true"""
 make_out,cognitive,non-factive,non-veridical,1,0,0,0,1,0,0,1,1,0,1,0,0,0,1,1,0,0,0,0,0,0,claim/perceive; dual sense with counter-factive communicative use
